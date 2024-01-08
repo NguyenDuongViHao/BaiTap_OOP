@@ -1,0 +1,3 @@
+﻿  ThoiGian.cpp
+C:\CDTH21A\LapTrinh_HDT\0306211024_buoi2\bai4\ThoiGian.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  bai4.vcxproj -> C:\CDTH21A\LapTrinh_HDT\0306211024_buoi2\x64\Debug\bai4.exe

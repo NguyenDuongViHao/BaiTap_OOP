@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\CDTH21A\LapTrinh_HDT\0306211024\bai1\Source.cpp(15,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\CDTH21A\LapTrinh_HDT\0306211024\bai1\Source.cpp(46,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  bai1.vcxproj -> C:\CDTH21A\LapTrinh_HDT\0306211024\x64\Debug\bai1.exe

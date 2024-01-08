@@ -1,0 +1,3 @@
+﻿  PhanSo.cpp
+C:\CDTH21A\LapTrinh_HDT\0306211024_buoi4\bai2\PhanSo.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  bai2.vcxproj -> C:\CDTH21A\LapTrinh_HDT\0306211024_buoi4\x64\Debug\bai2.exe

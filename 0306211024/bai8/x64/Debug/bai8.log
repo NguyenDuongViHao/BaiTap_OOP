@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\CDTH21A\LapTrinh_HDT\0306211024\bai8\Source.cpp(246,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\CDTH21A\LapTrinh_HDT\0306211024\bai8\Source.cpp(261,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\CDTH21A\LapTrinh_HDT\0306211024\bai8\Source.cpp(275,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\CDTH21A\LapTrinh_HDT\0306211024\bai8\Source.cpp(290,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\CDTH21A\LapTrinh_HDT\0306211024\bai8\Source.cpp(304,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\CDTH21A\LapTrinh_HDT\0306211024\bai8\Source.cpp(316,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\CDTH21A\LapTrinh_HDT\0306211024\bai8\Source.cpp(357,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\CDTH21A\LapTrinh_HDT\0306211024\bai8\Source.cpp(155): warning C4715: 'soSanhThoiGian': not all control paths return a value
+  bai8.vcxproj -> C:\CDTH21A\LapTrinh_HDT\0306211024\x64\Debug\bai8.exe

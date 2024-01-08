@@ -1,0 +1,3 @@
+﻿  ArrPhanSo.cpp
+C:\CDTH21A\LapTrinh_HDT\0306211024_buoi3\bai3\ArrPhanSo.cpp(8,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  bai3.vcxproj -> C:\CDTH21A\LapTrinh_HDT\0306211024_buoi3\x64\Debug\bai3.exe

@@ -1,0 +1,16 @@
+C:\Users\huuph\Desktop\OOP_Buoi12\Demo\obj\Debug\Demo.csproj.AssemblyReference.cache
+C:\Users\huuph\Desktop\OOP_Buoi12\Demo\obj\Debug\Demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\huuph\Desktop\OOP_Buoi12\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\huuph\Desktop\OOP_Buoi12\Demo\bin\Debug\Demo.exe.config
+C:\Users\huuph\Desktop\OOP_Buoi12\Demo\bin\Debug\Demo.exe
+C:\Users\huuph\Desktop\OOP_Buoi12\Demo\bin\Debug\Demo.pdb
+C:\Users\huuph\Desktop\OOP_Buoi12\Demo\obj\Debug\Demo.exe
+C:\Users\huuph\Desktop\OOP_Buoi12\Demo\obj\Debug\Demo.pdb
+C:\CDTH21A\NAM_2\LapTrinh_HDT\OOP_Buoi12\Demo\bin\Debug\Demo.exe.config
+C:\CDTH21A\NAM_2\LapTrinh_HDT\OOP_Buoi12\Demo\bin\Debug\Demo.exe
+C:\CDTH21A\NAM_2\LapTrinh_HDT\OOP_Buoi12\Demo\bin\Debug\Demo.pdb
+C:\CDTH21A\NAM_2\LapTrinh_HDT\OOP_Buoi12\Demo\obj\Debug\Demo.csproj.AssemblyReference.cache
+C:\CDTH21A\NAM_2\LapTrinh_HDT\OOP_Buoi12\Demo\obj\Debug\Demo.csproj.SuggestedBindingRedirects.cache
+C:\CDTH21A\NAM_2\LapTrinh_HDT\OOP_Buoi12\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\CDTH21A\NAM_2\LapTrinh_HDT\OOP_Buoi12\Demo\obj\Debug\Demo.exe
+C:\CDTH21A\NAM_2\LapTrinh_HDT\OOP_Buoi12\Demo\obj\Debug\Demo.pdb

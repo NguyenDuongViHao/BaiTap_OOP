@@ -1,0 +1,3 @@
+﻿  main001.cpp
+C:\CDTH21A\LapTrinh_HDT\0306211024_buoi5\bai5\main001.cpp(6,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  bai5.vcxproj -> C:\CDTH21A\LapTrinh_HDT\0306211024_buoi5\x64\Debug\bai5.exe

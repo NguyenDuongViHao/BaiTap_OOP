@@ -1,0 +1,4 @@
+﻿  DaGiac.cpp
+C:\CDTH21A\LapTrinh_HDT\0306211024_buoi3\bai2\Header.h(26,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\CDTH21A\LapTrinh_HDT\0306211024_buoi3\bai2\DaGiac.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  bai2.vcxproj -> C:\CDTH21A\LapTrinh_HDT\0306211024_buoi3\x64\Debug\bai2.exe

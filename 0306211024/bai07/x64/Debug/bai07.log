@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\CDTH21A\LapTrinh_HDT\0306211024\bai07\Source.cpp(130,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  bai07.vcxproj -> C:\CDTH21A\LapTrinh_HDT\0306211024\x64\Debug\bai7.exe

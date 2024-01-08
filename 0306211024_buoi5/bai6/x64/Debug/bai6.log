@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\CDTH21A\LapTrinh_HDT\0306211024_buoi5\bai6\Diem.h(33,15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\CDTH21A\LapTrinh_HDT\0306211024_buoi5\bai6\Source.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  bai6.vcxproj -> C:\CDTH21A\LapTrinh_HDT\0306211024_buoi5\x64\Debug\bai6.exe
